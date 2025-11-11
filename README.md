@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiv333
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning QA in Pyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Pyton, C++
+- 💞️ I’m not looking to collaborate on ... yet
 - 📫 How to reach me ...
 
 <!---
