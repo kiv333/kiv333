@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiv333
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Pyton, C++
+- 🌱 I’m currently learning Pyton, C++, html, css, js
 - 💞️ I’m not looking to collaborate on ... yet
 - 📫 How to reach me ...
 
